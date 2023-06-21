@@ -1,4 +1,4 @@
-link: https://jayeshr28.github.io/reactRecordTable/
+link: https://jayeshr28.github.io/record_table/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
